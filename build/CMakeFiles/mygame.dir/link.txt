@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\mygame.dir/objects.a
-D:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\mygame.dir/objects.a @CMakeFiles\mygame.dir\objects1.rsp
-D:\msys64\ucrt64\bin\c++.exe -mwindows -static -Wl,--whole-archive CMakeFiles\mygame.dir/objects.a -Wl,--no-whole-archive -o C:\Users\craft\Desktop\codeig\test\dist\mygame.exe -Wl,--out-implib,libmygame.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\mygame.dir\linkLibs.rsp
